@@ -1,4 +1,4 @@
-import { defineComponent, VNode, PropType } from 'vue'
+import { defineComponent, type VNode, type PropType } from 'vue'
 import * as dh from "draggable-helper";
 
 interface Node {
